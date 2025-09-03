@@ -1,0 +1,5 @@
+git pull
+git add *.png
+git add *.jpg
+git commit -m "update"
+git push
